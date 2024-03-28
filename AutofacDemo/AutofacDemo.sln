@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacDemo", "AutofacDemo.csproj", "{7206E295-746A-4726-A4C4-46077509B20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacDemoTest", "..\AutofacDemoTest\AutofacDemoTest.csproj", "{9D0453E0-5468-4E2B-BD0E-C16DA6E27A60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7206E295-746A-4726-A4C4-46077509B20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7206E295-746A-4726-A4C4-46077509B20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7206E295-746A-4726-A4C4-46077509B20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7206E295-746A-4726-A4C4-46077509B20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0453E0-5468-4E2B-BD0E-C16DA6E27A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0453E0-5468-4E2B-BD0E-C16DA6E27A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0453E0-5468-4E2B-BD0E-C16DA6E27A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0453E0-5468-4E2B-BD0E-C16DA6E27A60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50CD9C41-D27B-4E76-80C7-AB9A7E8E0F43}
+	EndGlobalSection
+EndGlobal
